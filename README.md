@@ -1,8 +1,10 @@
 # IPCC Replacer
 Replace the ipcc.plist
 
-## IPCC Replacer 2.1 ipa安装包
-- 链接：https://pan.baidu.com/s/1mO5ZNKPh4zFNxremh7-Cvg?pwd=hesb
+## IPCC Replacer 、一键注销app和小奶牛安装包
+- 在线安装：https://wwnu.lanzouy.com/b03dzxouj
+- 密码: bcxl
+- 网盘链接：https://pan.baidu.com/s/1mO5ZNKPh4zFNxremh7-Cvg?pwd=hesb
 - 提取码：hesb
 - 推荐使用智能替换，如果遇到写入文件>原始文件的错误，请修改新的IMSI代码，可以改变原文件的大小。
 
